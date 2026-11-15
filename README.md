@@ -21,5 +21,5 @@ Currently learning: deeper Python and JavaScript, Next.js, Node.js and AI agents
 
 ### Find me
 
-[Portfolio](https://abrahamdan.com) · [LinkedIn](https://www.linkedin.com/in/abrhmalvarez/) · [abrhmalvarez@gmailcom](mailto:abrhmalvarez@gmail.com)
+[Portfolio](https://abrahamdan.com) · [LinkedIn](https://www.linkedin.com/in/abrhmalvarez/) · [abrhmalvarez@gmail.com](mailto:abrhmalvarez@gmail.com)
 
