@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Abraham Dan Alvarez, AI and Automation Engineer. I build, integrate, and maintain the systems businesses rely on.">
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#7d8590" letter-spacing="2">
+    <circle cx="62" cy="70" r="6" fill="#3fb950"/>
+    <text x="80" y="75">ABRAHAMDAN / PHILIPPINES / UTC+8</text>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="44" fill="#e6edf3">
+    <text x="54" y="150">I build, integrate, and maintain</text>
+    <text x="54" y="206">the <tspan fill="#58a6ff">systems</tspan> businesses rely on.</text>
+  </g>
+  <text x="54" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#7d8590">Abraham Dan Alvarez · AI &amp; Automation Engineer · 5+ years</text>
+
+  <g transform="translate(800 56)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">
+    <rect width="350" height="248" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="22" y="34" fill="#e6edf3">systems.log</text>
+    <circle cx="268" cy="29" r="4" fill="#3fb950"/>
+    <text x="278" y="34" fill="#3fb950">running</text>
+    <line x1="0" y1="52" x2="350" y2="52" stroke="#30363d"/>
+    <g fill="#7d8590">
+      <text x="22" y="86">app</text><text x="22" y="122">crm</text><text x="22" y="158">flow</text><text x="22" y="194">ai</text>
+    </g>
+    <g fill="#e6edf3" font-weight="700">
+      <text x="80" y="86">parentahan.com</text><text x="80" y="122">gohighlevel</text><text x="80" y="158">n8n</text><text x="80" y="194">voice-agents</text>
+    </g>
+    <g fill="#3fb950" text-anchor="end">
+      <text x="328" y="86">live</text><text x="328" y="122">shipped</text><text x="328" y="158">self-hosted</text><text x="328" y="194">shipped</text>
+    </g>
+    <rect x="22" y="220" width="306" height="4" rx="2" fill="#30363d"/>
+    <rect x="22" y="220" width="230" height="4" rx="2" fill="#3fb950"/>
+  </g>
+</svg>
